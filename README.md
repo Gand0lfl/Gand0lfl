@@ -6,8 +6,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=PHP)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=PYTHON)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=MYSQL)
+![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge&logo=PHPMYADMIN)
+
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/gandolfl)
