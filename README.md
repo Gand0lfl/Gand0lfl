@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Gand0lfl/Gand0lfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Статистика на GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gand0lfl&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
-Here are some ideas to get you started:
+### Мой стек технологий
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
+![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=PHP)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
+![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Контакты
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/gandolfl)
+[![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/getskills1337)
