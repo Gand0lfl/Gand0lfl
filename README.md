@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to the Internet!</h1>
+  <h1> Welcome to the Internet! </h1>
   <img alt="Globe" height="256" width="256" src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/globe.gif">
 </div>
 
