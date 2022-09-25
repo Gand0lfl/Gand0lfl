@@ -4,7 +4,7 @@
 </div>
 
 ## 👋 Hey, I’m **Nikita**
-I'm a student of  [Tyumen State University](https://utmn.ru/)
+### I'm a student of  [Tyumen State University](https://utmn.ru/)
 
 
 
